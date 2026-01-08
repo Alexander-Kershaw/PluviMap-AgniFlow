@@ -1,4 +1,4 @@
-# ---- Core scientific stack ----
+# Core scientific stack
 numpy>=1.23
 pandas>=1.5
 xarray>=2023.1.0
@@ -6,17 +6,17 @@ netcdf4>=1.6
 rioxarray>=0.14
 rasterio>=1.3
 
-# ---- Copernicus API ----
+# Copernicus API 
 cdsapi>=0.7.7
 
-# ---- Visualization ----
+# Visualization
 matplotlib>=3.7
 pillow>=9.5
 
-# ---- Mapping ----
+# Mapping 
 folium>=0.14
 streamlit>=1.30
 streamlit-folium>=0.15
 
-# ---- Geometry (future-proof / optional but safe) ----
+# Geometry
 shapely>=2.0
