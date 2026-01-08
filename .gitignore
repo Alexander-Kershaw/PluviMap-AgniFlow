@@ -1,0 +1,32 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---- Environments ----
+.env
+.venv
+venv/
+PluviMap_env/
+conda-env/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Streamlit ----
+.streamlit/
+
+# ---- Copernicus / API ----
+.cdsapirc
+
+# ---- Raw & intermediate data (large / reproducible) ----
+data/cams_raw/
+data/cams_extracted/
+data/cams_daily/
+
+# ---- Optional: keep final outputs only ----
+# If you want to keep PNGs + GIFs but not TIFFs, uncomment:
+# outputs/ras
+
