@@ -52,7 +52,7 @@ This project is part of my **PluviMap** series, which applies a reusable and ext
 - **Absolute AOD view**  
   Shows overall smoke/aerosol loading
 
-- **ΔAOD view (Delta Mode)**  
+- **AOD view (Delta Mode)**  
   Highlights daily changes:
   - Increase in aerosol loading
   - Decrease in aerosol loading
